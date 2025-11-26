@@ -1,0 +1,4 @@
+usuario
+admin@cameriere.com
+contraseña
+admin
